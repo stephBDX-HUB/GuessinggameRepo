@@ -1,4 +1,4 @@
 # GessingGame Projet
-Execution de make à : **Wed Nov 20 14:10:58 CET 2024** 
+Execution du make le: **Wed Nov 20 14:16:34 CET 2024** 
 
-Guessinggames.sh, Nbre lignes de code : **21**
+Nbre de lignes de code dans Guessinggames.sh: **21**
